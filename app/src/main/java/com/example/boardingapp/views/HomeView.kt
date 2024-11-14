@@ -1,4 +1,4 @@
-package com.example.boardingapp.onBoardViews
+package com.example.boardingapp.views
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
